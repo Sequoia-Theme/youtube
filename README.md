@@ -8,14 +8,11 @@ Sequoia theme adapted to YouTube
 # Instructions
 
 1. Install Stylus extension on your browser. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
-2. Navigate to [User Styles](https://userstyles.world/style/5478/serendipity-theme.)
-3. Click install style.
+2. Navigate to [User Styles](https://userstyles.world/style/5478/sequoia-theme.)
+3. Click install styles
 
 # Screenshot
-
-
-## Screenshots
-![Moonlight](https://github.com/Sequoia-Theme/app/blob/main/youtube.png?raw=true)
+![Sequoia](https://github.com/Sequoia-Theme/youtube/blob/main/sequoiaYoutube.png?raw=true)
 
 
 #
